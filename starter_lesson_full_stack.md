@@ -149,7 +149,7 @@ A browser console opens showing the JSON response:
 
 ### Step 1: Open GitHub Codespaces
 
-Create a repo in GitHub named **DBA-120-Full-Stack-Intro** (just copy and paste that).
+Create a repo in GitHub named **DBA-120-Full-Stack-Intro** (just copy and paste that). **Make sure you select Add README.**
 
 Click **"Code"** (green button) → **"Codespaces"** → **"Create codespace on main"**
 
