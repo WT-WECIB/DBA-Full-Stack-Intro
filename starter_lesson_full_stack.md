@@ -1,12 +1,12 @@
 # Full-Stack Database Project - Starter Lesson
-## Get It Working in One Class (90 minutes)
+## Get It Working in One Class
 
 By the end of this lesson, you will:
-- ✅ Create a database table in Oracle
-- ✅ Expose it as a REST API (automatic - no coding)
-- ✅ Call it from Python in GitHub Codespaces
-- ✅ See JSON data in your terminal
-- ✅ Understand "full-stack" works
+- Create a database table in Oracle
+- Expose it as a REST API (automatic - no coding)
+- Call it from Python in GitHub Codespaces
+- See JSON data in your terminal
+- Understand "full-stack" works
 
 This is the foundation. Everything else builds on this.
 
@@ -149,7 +149,7 @@ A browser console opens showing the JSON response:
 
 ### Step 1: Open GitHub Codespaces
 
-Go to your GitHub repository.
+Create a repo in GitHub named **DBA-120-Full-Stack-Intro** (just copy and paste that).
 
 Click **"Code"** (green button) → **"Codespaces"** → **"Create codespace on main"**
 
@@ -342,11 +342,11 @@ Python in GitHub Codespaces
 ```
 
 You proved:
-1. ✅ Database can store data
-2. ✅ APEX exposes it as REST (no code required)
-3. ✅ Python can READ from it (GET)
-4. ✅ Python can WRITE to it (POST)
-5. ✅ This all works in GitHub Codespaces
+1. Database can store data
+2. APEX exposes it as REST (no code required)
+3. Python can READ from it (GET)
+4. Python can WRITE to it (POST)
+5. This all works in GitHub Codespaces
 
 **This is the foundation of the full-stack project.**
 
